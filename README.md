@@ -1,10 +1,8 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
-
 ### Welcome to my profile
 Full Stack Developer
 - I’m currently working at Code Empresa Júnior
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=fredericodgv&theme=cobalt)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=fredericodgv&theme=cobalt&layout=compact)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=fredericodgv&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/fredericodgv)
