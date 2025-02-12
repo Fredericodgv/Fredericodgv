@@ -1,6 +1,4 @@
 ### Welcome to my profile
-Full Stack Developer
-- I’m currently working at [Code Empresa Júnior](https://codejr.com.br)
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=fredericodgv&theme=radical&layout=compact)
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=fredericodgv&theme=radical&layout=compact)
